@@ -1,0 +1,1 @@
+echo "Started checkout at %date%:%time%";
